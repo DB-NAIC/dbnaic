@@ -21,13 +21,13 @@ Download the image features from [GoogleDrive](https://drive.google.com/file/d/1
 
 # Training
 ```python
-python train.sh
+python train.py
 ```
 
 # Evaluation
-You can download the pre-trained model from [GoogleDrive](https://drive.google.com/file/d/1co3_Gvi-Vs64dkMhdTvFnWuuwYA3JjFO/view?usp=sharing) and put it into `saved_models`.
+You can download the pre-trained model from [GoogleDrive](https://drive.google.com/file/d/1co3_Gvi-Vs64dkMhdTvFnWuuwYA3JjFO/view?usp=sharing) and put it into `./saved_models/`.
 ```python
-python eval.sh
+python eval.py
 ```
 | BLEU-1      | BLEU-4      | METEOR      | ROUGE-L     | CIDEr       |     
 | ----------- | ----------- | ----------- | ----------- | ----------- |
