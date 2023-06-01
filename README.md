@@ -17,7 +17,7 @@ mscoco/
   |--region/
   |--grid/
 ```
-Download the image features from [GoogleDrive](https://drive.google.com/file/d/1muydp9MVCUY4-hoKTsJvk4dZoycnrzbj/view?usp=sharing) and put into `mscoco/feature/coco2014`. Download the files from [GoogleDrive]([https://drive.google.com/file/d/1muydp9MVCUY4-hoKTsJvk4dZoycnrzbj/view?usp=sharing](https://drive.google.com/file/d/1Z7iXdm602tEqz3fbqWO-bfamAy_Yxacz/view?usp=sharing)) and put into `evaluation/`.
+Download the image features from [GoogleDrive](https://drive.google.com/file/d/1muydp9MVCUY4-hoKTsJvk4dZoycnrzbj/view?usp=sharing) and put into `mscoco/feature/coco2014`. Download the files from [GoogleDrive](https://drive.google.com/file/d/1Z7iXdm602tEqz3fbqWO-bfamAy_Yxacz/view?usp=sharing) and put into `evaluation/`.
 
 # Training
 ```python
@@ -25,7 +25,7 @@ python train.sh
 ```
 
 # Evaluation
-You can download the pre-trained model from [GoogleDrive](https://drive.google.com/file/d/19y8ZcNIMdqrqaw5K6lOgb90wxxrY690b/view?usp=sharing) and put it into `saved_models`.
+You can download the pre-trained model from [GoogleDrive](https://drive.google.com/file/d/1co3_Gvi-Vs64dkMhdTvFnWuuwYA3JjFO/view?usp=sharing) and put it into `saved_models`.
 ```python
 python eval.sh
 ```
