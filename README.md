@@ -17,7 +17,7 @@ mscoco/
   |--region/
   |--grid/
 ```
-Download the image features from [GoogleDrive](https://drive.google.com/file/d/1muydp9MVCUY4-hoKTsJvk4dZoycnrzbj/view?usp=sharing) and put into `mscoco/feature/coco2014`. Download the files from [GoogleDrive](https://drive.google.com/file/d/1Z7iXdm602tEqz3fbqWO-bfamAy_Yxacz/view?usp=sharing) and put into `evaluation/`.
+Download the image features from [GoogleDrive](https://drive.google.com/file/d/1EP9EB8OYoz7VT29g6ARwwi8uCZD8kvOS/view?usp=sharing) and put into `./mscoco/`. Download the files from [GoogleDrive](https://drive.google.com/file/d/1Z7iXdm602tEqz3fbqWO-bfamAy_Yxacz/view?usp=sharing) and put into `./evaluation/`.
 
 # Training
 ```python
