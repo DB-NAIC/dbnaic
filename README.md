@@ -25,7 +25,7 @@ python train.sh
 ```
 
 # Evaluation
-You can download the pre-trained model from [GoogleDrive](https://drive.google.com/file/d/19y8ZcNIMdqrqaw5K6lOgb90wxxrY690b/view?usp=sharing) and put it into `experiments/EENAIC/snapshot/`.
+You can download the pre-trained model from [GoogleDrive](https://drive.google.com/file/d/19y8ZcNIMdqrqaw5K6lOgb90wxxrY690b/view?usp=sharing) and put it into `saved_models`.
 ```python
 python eval.sh
 ```
